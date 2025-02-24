@@ -19,3 +19,6 @@
 
 Пример процесса игры
 ![image](https://github.com/user-attachments/assets/036c3086-ff73-4999-baa3-d1e1f47e7c7d)
+
+Окно победы в игре
+![image](https://github.com/user-attachments/assets/36129364-ae00-4c3e-8443-6325f9d7c13c)
